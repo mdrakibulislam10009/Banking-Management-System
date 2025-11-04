@@ -28,7 +28,7 @@ The **Banking Management System (BMS)** is a console-based Java application desi
 ## 🛠️ Technologies Used
 - **Programming Language:** Java (JDK 17 or later recommended)  
 - **Database:** MySQL  
-- **JDBC:** For database connectivity  
+- **JDBC:** For database connectivity(https://dev.mysql.com/downloads/connector/j/)  
 - **IDE:** IntelliJ IDEA / Eclipse / NetBeans  
 - **Package Name:** `db`
 
@@ -105,7 +105,10 @@ Enter Name: Sabbir Hossain
 Enter Email: sabbir@gmail.com
 Phone:xxxxxxxxxxx
 Address:xxxxxxx
-Account created successfully! Account No: 100000011
+Account created successfully!
+Account No: 100000011
+Username: xxxxxxx
+Password: xxxxxxx
 ```
 
 ## 📄 License
